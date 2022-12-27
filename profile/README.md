@@ -2,6 +2,7 @@
 An emote extension for Fansly which adds support for emotes from popular emote extensions.
 
 ## Features
+- Link your Fansly account with your twitch account
 - 300+ emote slots
 - Support for animated and wide emotes
 - All kinds of images including WEBP are supported
