@@ -19,7 +19,7 @@ The Ftv browser extension is not associated with Fansly, Twitch, 7TV, FFZ, or BT
 ## Privacy Policy
 At Ftv, we are committed to protecting your privacy. We only collect and store the minimum amount of information necessary to provide our services.
 
-When you link your account with the Ftv browser extension, we store your Fansly Account ID, Fansly Chatroom ID, and Twitch Account ID. The Fansly Account ID and Fansly Chatroom ID are used to find the associated Twitch Account ID, which is used to provide the features of the extension.
+When you link your account with the Ftv browser extension, we store your Fansly Account ID, Fansly Chatroom ID, and Twitch Account ID. The Fansly Account ID and Fansly Chatroom ID are used to find the associated Twitch Account ID, which is used to provide the features of the extension. All of this is public information and is accessable by anyone registered to these services.
 
 We do not collect any other personal information, and we do not share your information with any third parties.
 
